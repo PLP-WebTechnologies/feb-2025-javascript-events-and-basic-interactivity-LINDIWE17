@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+.hidden {
+    display: none;
+}
+
+button {
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,
+}
+
+button:hover {
+    box-shadow: 0 0 10px cyan,
+    0 0 25px cyan, 0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+
+button {
+    background-color: cyan;
+}
+
+button {
+    border: none;
+    outline: none; /* Removes the focus outline */
+  }

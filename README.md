@@ -29,7 +29,7 @@ Here’s what your interactive bundle of joy should include:
 - Tabs or accordion-style content  
 - Bonus: Add some animation using JS or CSS ✨
 
-### 3. Form Validation 📋✅  
+### 3. Form Validation 📋✅   
 - Required field checks  
 - Email format validation  
 - Password rules (e.g., min 8 characters)  
